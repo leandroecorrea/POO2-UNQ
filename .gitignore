@@ -1,0 +1,27 @@
+# Eclipse specific files
+.project
+.classpath
+.settings/
+bin/
+target/
+*.tmp
+*.bak
+*.swp
+
+# VS Code specific files
+.vscode/
+.history/
+
+# Java specific files
+*.class
+*.jar
+*.war
+*.ear
+*.log
+
+# MacOS specific files
+.DS_Store
+
+# Windows specific files
+Thumbs.db
+ehthumbs.db
