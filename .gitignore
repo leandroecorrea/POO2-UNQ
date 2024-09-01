@@ -11,6 +11,7 @@ target/
 # VS Code specific files
 .vscode/
 .history/
+.metadada/
 
 # Java specific files
 *.class
@@ -25,3 +26,5 @@ target/
 # Windows specific files
 Thumbs.db
 ehthumbs.db
+
+.fake
